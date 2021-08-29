@@ -31,6 +31,10 @@
   });
 
 
+  
+  
+  
+  
 
   // service_slider js code
   var service = $('.service_slider');
